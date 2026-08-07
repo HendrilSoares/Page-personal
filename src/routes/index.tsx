@@ -56,7 +56,7 @@ const plans = [
   },
   {
     icon: Laptop,
-    title: "Treino Online",
+    title: "Fichas de treinos personalizada",
     desc: "Planilha personalizada no app, vídeos de execução e ajustes semanais onde você estiver.",
     price: "R$ 190/mês",
   },
