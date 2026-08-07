@@ -58,13 +58,13 @@ const plans = [
     icon: Laptop,
     title: "Fichas de treinos personalizada",
     desc: "ficha de treino personalizada para cada tipo de necessidade.",
-    price: "R$ 100/mês",
+    price: "R$ 0/mês",
   },
   {
     icon: Salad,
     title: "Consultoria Nutricional",
     desc: "Plano alimentar alinhado ao seu treino, rotina e objetivo, com revisões quinzenais.",
-    price: "R$ 150/mês",
+    price: "R$ 0/mês",
   },
 ];
 
