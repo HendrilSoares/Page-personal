@@ -52,7 +52,7 @@ const plans = [
     icon: Dumbbell,
     title: "Treino Presencial",
     desc: "Acompanhamento individual na academia, com correção de execução em tempo real e periodização mensal.",
-    price: "R$ 300/mês",
+    price: "R$ 50/hora",
   },
   {
     icon: Laptop,
