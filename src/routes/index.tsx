@@ -32,7 +32,7 @@ export const Route = createFileRoute("/")({
       {
         property: "og:description",
         content:
-          "Treino presencial, online e consultoria nutricional. +100 alunos transformados. Agende sua avaliação gratuita.",
+          "Treino presencial,Fichas de treinos personalizada e consultoria nutricional. +100 alunos transformados. Agende sua avaliação gratuita.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -42,7 +42,7 @@ export const Route = createFileRoute("/")({
 });
 
 const stats = [
-  { value: "5", label: "Anos de experiência" },
+  { value: "2", label: "Anos de experiência" },
   { value: "+100", label: "Alunos atendidos" },
   { value: "4.9", label: "Avaliação média" },
 ];
