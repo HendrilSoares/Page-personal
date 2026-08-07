@@ -52,19 +52,19 @@ const plans = [
     icon: Dumbbell,
     title: "Treino Presencial",
     desc: "Acompanhamento individual na academia, com correção de execução em tempo real e periodização mensal.",
-    price: "R$ 490/mês",
+    price: "R$ 300/mês",
   },
   {
     icon: Laptop,
     title: "Fichas de treinos personalizada",
-    desc: "Planilha personalizada no app, vídeos de execução e ajustes semanais onde você estiver.",
-    price: "R$ 190/mês",
+    desc: "ficha de treino personalizada para cada tipo de necessidade.",
+    price: "R$ 100/mês",
   },
   {
     icon: Salad,
     title: "Consultoria Nutricional",
     desc: "Plano alimentar alinhado ao seu treino, rotina e objetivo, com revisões quinzenais.",
-    price: "R$ 250/mês",
+    price: "R$ 150/mês",
   },
 ];
 
