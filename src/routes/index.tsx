@@ -26,13 +26,13 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "Personal trainer com treino presencial, online e consultoria nutricional. +500 alunos transformados. Agende sua avaliação gratuita.",
+          "Personal trainer com treino presencial, online e consultoria nutricional. +100 alunos transformados. Agende sua avaliação gratuita.",
       },
       { property: "og:title", content: "Patrick | Personal Trainer — Resultados Reais" },
       {
         property: "og:description",
         content:
-          "Treino presencial, online e consultoria nutricional. +500 alunos transformados. Agende sua avaliação gratuita.",
+          "Treino presencial, online e consultoria nutricional. +100 alunos transformados. Agende sua avaliação gratuita.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -43,7 +43,7 @@ export const Route = createFileRoute("/")({
 
 const stats = [
   { value: "5", label: "Anos de experiência" },
-  { value: "+500", label: "Alunos atendidos" },
+  { value: "+100", label: "Alunos atendidos" },
   { value: "4.9", label: "Avaliação média" },
 ];
 
@@ -133,8 +133,8 @@ function Index() {
               <ArrowRight size={18} />
             </a>
             <p className="mt-4 text-sm text-muted-foreground">
-              <span className="font-semibold text-foreground">+500 alunos</span> transformados desde
-              2014
+              <span className="font-semibold text-foreground">+100 alunos</span> transformados desde
+              2022
             </p>
           </div>
         </div>
@@ -169,7 +169,7 @@ function Index() {
             <p className="mt-6 text-muted-foreground">
               Sou personal trainer formado em Educação Física (CREF ativo), com especialização em
               treinamento de força e hipertrofia e certificação em preparação física funcional. Há
-              mais de uma década ajudo pessoas comuns — não atletas — a construir corpo, disciplina
+              mais de 2 anos ajudo pessoas comuns — não atletas — a construir corpo, disciplina
               e saúde.
             </p>
             <p className="mt-4 text-muted-foreground">
