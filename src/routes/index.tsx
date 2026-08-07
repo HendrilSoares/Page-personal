@@ -17,7 +17,7 @@ import rodImg from "@/assets/rod.png";
 import rodVideo from "@/assets/video-rod.mp4";
 
 
-const WHATSAPP = "https://wa.me/553194402150";
+const WHATSAPP = "https://wa.me/553194402150?text=" + encodeURIComponent("Olá! Vim pelo site e gostaria de mais informações 🙂");
 
 export const Route = createFileRoute("/")({
   head: () => ({
